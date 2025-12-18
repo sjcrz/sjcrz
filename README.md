@@ -1,16 +1,14 @@
-### Hi there 👋
+### About Me:
 
-<!--
-**HiFlii/HiFlii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Master's student currently working on solar energy forecasting at MIT. 
 
-Here are some ideas to get you started:
+I am developing a Python package called skyimglib, which includes:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Data downloading
+- Data formatting
+- ML training & models
+- ML model evaluation
+
+This will accompany SolarBench, a collection of open-source sky image, satellite image, meterological and atmospheric measurements for use in ground-based solar energy forecasting and other meteorological tasks.
+You can access SolarBench at our HuggingFace page here: https://huggingface.co/solarbench
+
