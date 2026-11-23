@@ -1,6 +1,9 @@
 ### About Me:
 
-I'm a Master's student currently working on solar energy forecasting at MIT. 
+I'm a Research Software Engineer @ Composable AI
+
+
+Previously during my MEng I worked on solar energy forecasting at MIT. 
 
 I am developing a Python package called skyimglib, which includes:
 
